@@ -7,7 +7,7 @@ Aucune partie du code n'est un copier-coller de code déjà existant
 
 
 Commande pour compiler:
-gcc -I ./ main.c utils.c -o huffman.exe
+```gcc -I ./ main.c utils.c -o huffman.exe```
 
 version de gcc: "gcc version 6.3.0 (MinGW.org GCC-6.3.0-1)"
 
