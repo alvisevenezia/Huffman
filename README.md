@@ -22,3 +22,6 @@ Commande pour décompiler:
 Commande pour obtenir de l'aide:
 
 ```./huffman -h```
+
+
+Lien vers le github du projet: https://github.com/alvisevenezia/Huffman
